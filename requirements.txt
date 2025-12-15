@@ -1,0 +1,2 @@
+# Python requirements file for hello world script
+# No external dependencies required for basic hello world
